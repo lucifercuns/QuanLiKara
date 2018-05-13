@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\doant\Desktop\QuanLiKara\QuanLiKara\obj\Debug\
+C:\Users\doant\Desktop\QuanLyKara\QuanLiKara\QuanLiKara\obj\Debug\
 QuanLiKara
 none
 false
 DEBUG;TRACE
-C:\Users\doant\Desktop\QuanLiKara\QuanLiKara\App.xaml
-22079336165
+C:\Users\doant\Desktop\QuanLyKara\QuanLiKara\QuanLiKara\App.xaml
+4700582149
 
-111817524350
-151967428151
-MainWindow.xaml;ResourceXAML\MainResource.xaml;
+13-717482782
+15-1579479989
+Login.xaml;MainWindow.xaml;ResourceXAML\MainResource.xaml;UserControlKara\ControlBarUC.xaml;
 
-False
+True
 

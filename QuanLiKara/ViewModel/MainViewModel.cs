@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Input;
 
 namespace QuanLiKara.ViewModel
 {
     public class MainViewModel : BaseViewModel
     {
         //mọi thứ xử lí nằm trong này
-        public MainViewModel()
+        public  MainViewModel()
         {
-            MessageBox.Show("Done");
+            Login loginWindown = new Login();
+            loginWindown.ShowDialog();
         }
     }
 }
